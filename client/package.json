@@ -6,6 +6,7 @@
   "dependencies": {
     "@apollo/client": "^3.5.10",
     "@apollo/react-hooks": "^4.0.0",
+    "@cryptosea/api": "^0.0.1",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
@@ -18,7 +19,6 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
-    "cryptosea-api": "file:../libs/cryptosea-api",
     "ethers": "^5.6.2",
     "graphql": "^15.8.0",
     "graphql-tag": "^2.12.6",
@@ -29,6 +29,7 @@
     "react-dom": "^18.0.0",
     "react-hook-form": "^7.29.0",
     "react-icons": "^4.3.1",
+    "react-is": "^18.0.0",
     "react-player": "^2.10.0",
     "react-redux": "^7.2.8",
     "react-router-dom": "^6.3.0",
