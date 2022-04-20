@@ -2,6 +2,10 @@
   "name": "crypto-sea",
   "version": "0.1.0",
   "type": "module",
+  "engines": {
+      "node": "16.14.0",
+      "npm": "8.4.1"
+  },
   "dependencies": {
     "@apollo/client": "^3.5.10",
     "@apollo/react-hooks": "^4.0.0",
